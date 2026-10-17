@@ -22,7 +22,7 @@ AI & software engineer and Computer Science graduate (Amrita Vishwa Vidyapeetham
 |---|---|---|
 | [filament-tracker](https://github.com/Navth/filament-tracker/tree/multi-user) | Multi-user web app that tracks filament left on every spool, synced from Bambu Cloud. Postgres row-level security isolates each user's data, and Bambu tokens are encrypted at rest. An AI print-ops agent is next | Next.js, TypeScript, Supabase, shadcn/ui, Cloud Run |
 | [NFC_tool](https://github.com/Navth/NFC_tool) | Android app that reads and writes URLs on NFC tags, aimed at small businesses | Kotlin, Jetpack Compose |
-| [PaperMind](https://github.com/Navth/PaperMind-1) | Team project: AI research platform with a paper Q&A assistant, research-gap analyzer, multi-agent systematic review generator and paper-to-podcast generator. I'm the top contributor | Python, FastAPI, LLMs, React, TypeScript |
+| [PaperMind](https://github.com/Navth/PaperMind-1) | Team project: AI research platform with a paper Q&A assistant, research-gap analyzer, multi-agent systematic review generator and paper-to-podcast generator | Python, FastAPI, LLMs, React, TypeScript |
 
 ### 📫 Reach me
 
