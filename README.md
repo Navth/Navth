@@ -84,14 +84,6 @@
     </td>
   </tr>
 </table>
-
-## 📊 GitHub telemetry
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Navth&show_icons=true&hide_border=true&hide_rank=true&count_private=true&title_color=38BDF8&icon_color=06B6D4&text_color=CBD5E1&bg_color=0D1117" alt="Navaneeth's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navth&layout=compact&hide=html,css&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117" alt="Top languages" />
-</div>
-
 <br />
 
 <div align="center">
