@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>⚡ Navaneeth</h1>
+  <h1>Navth</h1>
   <h3>AI &amp; Full-Stack Software Engineer</h3>
   <p>🤖 Building practical LLM systems &nbsp;•&nbsp; 🚀 Shipping from UI to cloud &nbsp;•&nbsp; 🔧 Making hardware and software talk</p>
 
