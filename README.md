@@ -16,20 +16,25 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
-## `whoami`
+<div align="center">
 
-> **AI & software engineer** and Computer Science graduate at Amrita Vishwa Vidyapeetham (2026). I build end-to-end web applications, from reactive interfaces to secure databases and the cloud they run on, with a focus on practical, reliable LLM systems.
+<h2><code>whoami</code></h2>
 
-<table>
+<p><strong>AI &amp; software engineer</strong> and Computer Science graduate at Amrita Vishwa Vidyapeetham (2026).</p>
+<p>I build end-to-end web applications, from reactive interfaces to secure databases and the cloud they run on,<br />with a focus on practical, reliable LLM systems.</p>
+
+<table align="center">
   <tr>
-    <td>🤖 <strong>Working with</strong><br />LLM apps · RAG · AI agents · tool use</td>
-    <td>🏗️ <strong>Building now</strong><br /><a href="https://github.com/Navth/filament-tracker/tree/multi-user">Filament Tracker</a> + an AI print-ops agent</td>
+    <td align="center" width="50%">🤖 <strong>Working with</strong><br />LLM apps · RAG · AI agents · tool use</td>
+    <td align="center" width="50%">🏗️ <strong>Building now</strong><br /><a href="https://github.com/Navth/filament-tracker/tree/multi-user">Filament Tracker</a> + an AI print-ops agent</td>
   </tr>
   <tr>
-    <td>🔭 <strong>Exploring</strong><br />MCP · agent evals · observability · small open models</td>
-    <td>🧪 <strong>Researching</strong><br />Adaptive consensus in private blockchains</td>
+    <td align="center">🔭 <strong>Exploring</strong><br />MCP · agent evals · observability · small open models</td>
+    <td align="center">🧪 <strong>Researching</strong><br />Adaptive consensus in private blockchains</td>
   </tr>
 </table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
