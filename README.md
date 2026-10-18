@@ -91,7 +91,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navth&bg_color=0D1117&color=CBD5E1&line=06B6D4&point=38BDF8&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navth&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8" width="96%" alt="GitHub contribution streak" />
 </div>
 
 <br />
