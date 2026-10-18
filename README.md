@@ -84,12 +84,8 @@
 ## 📊 GitHub telemetry
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Navth&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=06B6D4&text_color=CBD5E1&bg_color=0D1117" alt="Navaneeth's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navth&layout=compact&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navth&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8" width="96%" alt="GitHub contribution streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Navth&show_icons=true&hide_border=true&hide_rank=true&count_private=true&title_color=38BDF8&icon_color=06B6D4&text_color=CBD5E1&bg_color=0D1117" alt="Navaneeth's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navth&layout=compact&hide=html,css&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117" alt="Top languages" />
 </div>
 
 <br />
