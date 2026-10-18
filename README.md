@@ -1,10 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:312E81,100:06B6D4&height=230&section=header&text=Navaneeth&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Navaneeth profile header" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=45&lines=%F0%9F%A4%96+Building+practical+LLM+systems;%E2%9A%A1+Shipping+from+UI+to+cloud;%F0%9F%94%AD+Exploring+MCP%2C+agent+evals+%26+observability;%F0%9F%94%A7+Making+hardware+and+software+talk" alt="Typing introduction" />
-  </a>
+  <h1>⚡ Navaneeth</h1>
+  <h3>AI &amp; Full-Stack Software Engineer</h3>
+  <p>🤖 Building practical LLM systems &nbsp;•&nbsp; 🚀 Shipping from UI to cloud &nbsp;•&nbsp; 🔧 Making hardware and software talk</p>
 
   <br />
 
