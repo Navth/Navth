@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/navth01/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:navaneeth1440@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Navth"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Navth&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge" alt="Profile views" />
 
 </div>
 
