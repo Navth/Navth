@@ -1,29 +1,30 @@
-## Hi, I'm Navaneeth 👋
+<div align="center">
 
-AI & software engineer and Computer Science graduate (Amrita Vishwa Vidyapeetham, 2026). I build web applications end to end, from the interface down to the database and the cloud it runs on, and I'm focused on building practical things with LLMs.
+  # ⚡ Hey, I'm Navaneeth 👋
+  
+  ### **AI & Full-Stack Software Engineer** · **CS @ Amrita Vishwa Vidyapeetham '26**
 
-- 🤖 **Working with:** LLM applications, RAG, AI agents and tool use
-- 🏗️ **Building now:** [Filament Tracker](https://github.com/Navth/filament-tracker/tree/multi-user), a multi-user 3D-printing app, and next an AI print-ops agent on top of it (MCP tools + evals)
-- 🔭 **Exploring now:** Model Context Protocol (MCP), agent evals and observability, fine-tuning small open models
-- 🧪 **Research:** reinforcement learning for adaptive consensus in private blockchains
-- 🔧 **On the side:** embedded systems and IoT with ESP32 and Arduino, and 3D printing
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Production+LLM+Apps%2C+RAG+%26+AI+Agents;End-to-End+Engineering%3A+UI+%E2%86%92+Database+%E2%86%92+Cloud;Exploring+Model+Context+Protocol+(MCP)+%26+Agent+Evals;Tinkering+with+ESP32%2C+IoT+%26+3D+Printing+Hardware" alt="Typing SVG" />
+  </a>
 
-### 🛠️ Tech stack
+  <br/>
 
-- **Languages:** Python · JavaScript · TypeScript · Kotlin · SQL
-- **AI / ML:** LLM APIs · RAG · Machine learning · Reinforcement learning
-- **Web:** Next.js · React · Node.js · Tailwind CSS · shadcn/ui · Flask
-- **Data:** PostgreSQL · Prisma · Supabase · Firebase · SQLite
-- **Cloud & tools:** AWS · Google Cloud (Cloud Run) · Docker · Railway · Vercel · Git
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Navaneeth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navth01/)
+  [![Email](https://img.shields.io/badge/Email-navaneeth1440%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navaneeth1440@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-@Navth-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Navth)
 
-### 📌 Selected projects
+</div>
 
-| Project | What it does | Stack |
-|---|---|---|
-| [filament-tracker](https://github.com/Navth/filament-tracker/tree/multi-user) | Multi-user web app that tracks filament left on every spool, synced from Bambu Cloud. Postgres row-level security isolates each user's data, and Bambu tokens are encrypted at rest. An AI print-ops agent is next | Next.js, TypeScript, Supabase, shadcn/ui, Cloud Run |
-| [NFC_tool](https://github.com/Navth/NFC_tool) | Android app that reads and writes URLs on NFC tags, aimed at small businesses | Kotlin, Jetpack Compose |
-| [PaperMind](https://github.com/Navth/PaperMind-1) | Team project: AI research platform with a paper Q&A assistant, research-gap analyzer, multi-agent systematic review generator and paper-to-podcast generator | Python, FastAPI, LLMs, React, TypeScript |
+---
 
-### 📫 Reach me
+### 🚀 What I'm Up To
 
-[LinkedIn](https://www.linkedin.com/in/navth01/) · navaneeth1440@gmail.com
+I architect and ship **end-to-end web applications**—from reactive interfaces down to row-level database security and cloud infrastructure—with a heavy focus on **practical, production-grade LLM systems**.
+
+```yaml
+current_focus:
+  building: "Filament Tracker (Multi-user 3D-print SaaS) + an autonomous AI Print-Ops Agent (MCP + Evals)"
+  ai_engineering: ["Agentic Workflows & Tool Use", "Production RAG", "Model Context Protocol (MCP)", "Agent Observability & Evals", "Small Open-Model Fine-Tuning"]
+  research: "Reinforcement Learning for Adaptive Consensus in Private Blockchains"
+  hardware_lab: ["ESP32 & Arduino IoT", "Bambu Lab 3D Printing", "NFC Systems"]
